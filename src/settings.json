@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Join us for an inspiring gathering at the Tech Meetup on June 7 – 9 in Denver.",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights",
+        "title": "Ignite Your Inner Innovator with Yay"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights",
+        "title": "Ignite Your Inner Innovator with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights",
+        "title": "Ignite Your Inner Innovator with Yay"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights",
+        "title": "Ignite Your Inner Innovator with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights",
+        "title": "Ignite Your Inner Innovator with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights",
+        "title": "Ignite Your Inner Innovator with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights",
+        "title": "Ignite Your Inner Innovator with Yay"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Ignite Your Inner Innovator with Yay",
+  "subtitle": "Discover, Share, and Inspire Through Cutting-Edge Tech Insights"
+}
